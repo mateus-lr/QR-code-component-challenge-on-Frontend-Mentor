@@ -25,9 +25,8 @@ This is my first challenge on Frontend Mentor. I expect do one per day to train 
 </div>
 
 ### Links 
-//@todo - Put the website live
 
-- Live Site URL: (https://your-live-site-url.com)
+[live Site](https://mateus-lr.github.io/QR-code-component-challenge-on-Frontend-Mentor/)
 
 ### Built with
 
